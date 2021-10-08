@@ -1,0 +1,14 @@
+.vscode
+.history
+node_modules/
+.openzeppelin
+build/
+output/
+.seed
+.serect
+*.log
+.seed*
+.env
+.envjs
+.key
+.pem
